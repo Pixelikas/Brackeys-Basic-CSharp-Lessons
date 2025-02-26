@@ -1,0 +1,14 @@
+C:\Users\Pixelikas\Desktop\Brackeys C# Basic Lessons\bin\Debug\net9.0\Brackeys C# Basic Lessons.exe
+C:\Users\Pixelikas\Desktop\Brackeys C# Basic Lessons\bin\Debug\net9.0\Brackeys C# Basic Lessons.deps.json
+C:\Users\Pixelikas\Desktop\Brackeys C# Basic Lessons\bin\Debug\net9.0\Brackeys C# Basic Lessons.runtimeconfig.json
+C:\Users\Pixelikas\Desktop\Brackeys C# Basic Lessons\bin\Debug\net9.0\Brackeys C# Basic Lessons.dll
+C:\Users\Pixelikas\Desktop\Brackeys C# Basic Lessons\bin\Debug\net9.0\Brackeys C# Basic Lessons.pdb
+C:\Users\Pixelikas\Desktop\Brackeys C# Basic Lessons\obj\Debug\net9.0\Brackeys C# Basic Lessons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pixelikas\Desktop\Brackeys C# Basic Lessons\obj\Debug\net9.0\Brackeys C# Basic Lessons.AssemblyInfoInputs.cache
+C:\Users\Pixelikas\Desktop\Brackeys C# Basic Lessons\obj\Debug\net9.0\Brackeys C# Basic Lessons.AssemblyInfo.cs
+C:\Users\Pixelikas\Desktop\Brackeys C# Basic Lessons\obj\Debug\net9.0\Brackeys C# Basic Lessons.csproj.CoreCompileInputs.cache
+C:\Users\Pixelikas\Desktop\Brackeys C# Basic Lessons\obj\Debug\net9.0\Brackeys C# Basic Lessons.dll
+C:\Users\Pixelikas\Desktop\Brackeys C# Basic Lessons\obj\Debug\net9.0\refint\Brackeys C# Basic Lessons.dll
+C:\Users\Pixelikas\Desktop\Brackeys C# Basic Lessons\obj\Debug\net9.0\Brackeys C# Basic Lessons.pdb
+C:\Users\Pixelikas\Desktop\Brackeys C# Basic Lessons\obj\Debug\net9.0\Brackeys C# Basic Lessons.genruntimeconfig.cache
+C:\Users\Pixelikas\Desktop\Brackeys C# Basic Lessons\obj\Debug\net9.0\ref\Brackeys C# Basic Lessons.dll
